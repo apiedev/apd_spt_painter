@@ -1,7 +1,7 @@
 ## Dependencies
 
 Tarkov - https://www.escapefromtarkov.com/  
-SPTarkov - https://www.sp-tarkov.com/#download
+SPTarkov - https://www.sp-tarkov.com/#download  
 Painter Mod - https://hub.sp-tarkov.com/files/file/1412-painter/
 
 ## Description
