@@ -4,7 +4,7 @@
     "main": "src/mod.js",
     "license": "MIT",
     "author": "CivicIAm",
-    "akiVersion": "3.8.X",
+    "akiVersion": "3.X.X",
     "scripts": {
         "setup": "npm i",
         "build": "node ./packageBuild.ts"
