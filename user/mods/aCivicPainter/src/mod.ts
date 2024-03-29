@@ -134,8 +134,6 @@ class civicPainter implements IPreAkiLoadMod, IPostDBLoadMod {
             const item = require(filePath)
             if (Object.keys(item).length < 1) return 
             for (const quest in item) {
-                console.log(quest)
-                console.log(item[quest])
                 tables.templates.quests[quest] = item[quest]
                 questCount++
             }
