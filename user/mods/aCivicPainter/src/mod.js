@@ -69,7 +69,7 @@ class civicPainter {
         imageRouter.addRoute(baseJson.avatar.replace(".jpg", ""), `${imageFilepath}/painter.jpg`);
     }
     setupTraderUpdateTime(traderConfig) {
-        const traderRefreshRecord = { seconds: { min: 3600, max: 4200 }, traderId: baseJson._id };
+        const traderRefreshRecord = { traderId: baseJson._id, seconds: 3600 };
         traderConfig.updateTime.push(traderRefreshRecord);
     }
     addTraderToDb(traderDetailsToAdd, tables, jsonUtil) {

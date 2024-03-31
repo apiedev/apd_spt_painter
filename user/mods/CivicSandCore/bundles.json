@@ -19,7 +19,7 @@
            ]
         },
         {
-           "key":"mods/pistol grips/pistolgrip_ar15_f1_firearms_st2_pc_skeletonized_white.bundle",
+           "key":"mods/pistolgrips/pistolgrip_ar15_f1_firearms_st2_pc_skeletonized_white.bundle",
            "dependencyKeys":[
               "assets/commonassets/physics/physicsmaterials.bundle",
               "cubemaps",
